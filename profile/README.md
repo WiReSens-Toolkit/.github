@@ -13,4 +13,4 @@ To program a tactile sensing system using WiReSens Toolkit, you
 2. Flash a base firwmare program to calibrate and read from your sensor using the Arduino Library
 3. Configure the sensor and run methods for recording, visualization, or analysis using the Python Library
 
-Each repository has instructions for installation and more detailed documentation. Here, we give a high level overview of a full example workflow programming a resistive tactile sensor using WiReSens Toolkit 
+Each repository has instructions for installation and more detailed documentation. Here, we give a high level overview of a full example workflow programming a two-sensor system using WiReSens Toolkit 
